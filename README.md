@@ -1,2 +1,6 @@
-# esp32-2432s028-meteo
-Display meteorological information using an ESP32-2432S028 board
+# Display meteorological information using an ESP32-2432S028 board
+
+## Result
+
+![](img/image.png)
+
