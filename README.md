@@ -2,7 +2,7 @@
 
 ## Result
 
-![](./img/image.png)
+![](./img/image.jpg)
 
 ## Installation
 
