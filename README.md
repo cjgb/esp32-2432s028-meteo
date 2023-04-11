@@ -3,7 +3,7 @@
 ## Result
 
 <p align="center">
-  <img src="./img/image.jpg" />
+  <img src="./img/image.jpg" width="400"/>
 </p>
 
 ## Installation
