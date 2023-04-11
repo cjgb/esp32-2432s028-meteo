@@ -2,7 +2,9 @@
 
 ## Result
 
-![](./img/image.jpg)
+<p align="center">
+  <img src="./img/image.jpg" />
+</p>
 
 ## Installation
 
